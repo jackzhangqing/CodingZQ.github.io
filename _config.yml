@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qing Zhang (张青)"
 description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io" # rayeren/rayeren.github.io CodingZQ.github.io
+repository               : "CodingZQ.github.io" # rayeren/rayeren.github.io CodingZQ.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics

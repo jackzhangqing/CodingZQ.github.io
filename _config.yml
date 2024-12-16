@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qing Zhang (张青)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
+description              : "A research assistant at the University of Science and Technology of China (USTC), currently focused on deep learning, signal processing, and interdisciplinary applications. The research primarily involves deep learning-based forward and inverse problems in geophysics, image denoising, and signal processing, as well as dataset generation using diffusion models and the adaptation of large models across different domains."
 repository               : "CodingZQ.github.io" # rayeren/rayeren.github.io CodingZQ.github.io
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "HeFei"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "jackcodingqing@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # "rayeren"
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
+  orcid            : # "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

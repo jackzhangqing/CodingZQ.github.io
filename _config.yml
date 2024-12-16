@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qing Zhang (张青)"
-description              : "A research assistant at the University of Science and Technology of China (USTC), currently focused on deep learning, signal processing, and interdisciplinary applications. The research primarily involves deep learning-based forward and inverse problems in geophysics, image denoising, and signal processing, as well as dataset generation using diffusion models and the adaptation of large models across different domains."
+description              : "A research assistant at the University of Science and Technology of China (USTC), currently focused on AI for Geosciences, diffusion models and the adaptation of foundational large models across domains"
 repository               : "CodingZQ.github.io" # rayeren/rayeren.github.io CodingZQ.github.io
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "HeFei"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    :  # "https://scholar.google.com/citations?user=aQQy_WAAAAAJ&hl=zh-CN"
   email            : "jackcodingqing@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # "rayeren"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : # "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3809-0094"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -53,9 +53,9 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 

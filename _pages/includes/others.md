@@ -1,3 +1,5 @@
+# 💬 Invited Talks and Academic Conferences
+- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 
 # 📖 Educations
 - *2025.09 -*, Joint PhD. student, Central South University(Base) and University of Science and Technology of China.
@@ -7,8 +9,15 @@
 - *2017.09 - 2021.06*, Undergraduate, School of Information Engineering (College of Big Data), Xuzhou University, Xuzhou, Jiangsu.
 - *2014.09 - 2017.09*, Senior high school student, Xuyi Middle School in Jiangsu, Huai'an, Jiangsu.
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+# 👩‍🚀 Skills
+- <span style="font-size: 20px">[QR code generator](https://cli.im/)</span>
+- <span style="font-size: 20px">“Hacker”（in the field of information security）</span>
+- <span style="font-size: 20px">Data Structures and Algorithms</span> 
+  - [The idea behind the Bubble Sort Algorithm](https://blog.csdn.net/qq_43073798/article/details/133343393?spm=1001.2014.3001.5501)
+  - [32 Classic Algorithms](https://blog.csdn.net/qq_43073798/article/details/133343903?spm=1001.2014.3001.5501)
+- <span style="font-size: 20px">Compiler Principles</span>
+- <span style="font-size: 20px">Software Development</span> 
+- <span style="font-size: 20px">Big Data Platform and Architecture</span> 
 
-# 💻 Internships
+# 💻 Internships and Projects
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.

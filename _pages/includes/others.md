@@ -16,7 +16,7 @@
 - <span style="font-size: 20px"> Projects </span>
 
 - <span style="font-size: 20px"> Skills </span>
-- [QR code generator](https://cli.im/)
+  - [QR code generator](https://cli.im/)
   - “Hacker”(in the field of information security)
   - Data Structures and Algorithms 
     - [The idea behind the Bubble Sort Algorithm](https://blog.csdn.net/qq_43073798/article/details/133343393?spm=1001.2014.3001.5501)

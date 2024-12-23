@@ -16,6 +16,7 @@
 - <span style="font-size: 20px"> Projects </span>
 
 - <span style="font-size: 20px"> Skills </span>
+[CSDN_A teenager who is passionate about IT.](https://blog.csdn.net/qq_43073798?type=blog) 
   - [QR code generator](https://cli.im/)
   - “Hacker”(in the field of information security)
   - Data Structures and Algorithms 

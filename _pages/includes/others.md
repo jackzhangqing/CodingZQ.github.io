@@ -9,15 +9,18 @@
 - *2017.09 - 2021.06*, Undergraduate, School of Information Engineering (College of Big Data), Xuzhou University, Xuzhou, Jiangsu.
 - *2014.09 - 2017.09*, Senior high school student, Xuyi Middle School in Jiangsu, Huai'an, Jiangsu.
 
-# 👩‍🚀 Skills
-- <span style="font-size: 20px">[QR code generator](https://cli.im/)</span>
-- <span style="font-size: 20px">“Hacker”（in the field of information security）</span>
-- <span style="font-size: 20px">Data Structures and Algorithms</span> 
-  - [The idea behind the Bubble Sort Algorithm](https://blog.csdn.net/qq_43073798/article/details/133343393?spm=1001.2014.3001.5501)
-  - [32 Classic Algorithms](https://blog.csdn.net/qq_43073798/article/details/133343903?spm=1001.2014.3001.5501)
-- <span style="font-size: 20px">Compiler Principles</span>
-- <span style="font-size: 20px">Software Development</span> 
-- <span style="font-size: 20px">Big Data Platform and Architecture</span> 
+# 💻 Internships Projects and Skills
+- <span style="font-size: 20px"> Internships </span>
+  - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
 
-# 💻 Internships and Projects
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
+- <span style="font-size: 20px"> Projects </span>
+
+- <span style="font-size: 20px"> Skills </span>
+- [QR code generator](https://cli.im/)
+  - “Hacker”(in the field of information security)
+  - Data Structures and Algorithms 
+    - [The idea behind the Bubble Sort Algorithm](https://blog.csdn.net/qq_43073798/article/details/133343393?spm=1001.2014.3001.5501)
+    - [32 Classic Algorithms](https://blog.csdn.net/qq_43073798/article/details/133343903?spm=1001.2014.3001.5501)
+  - Compiler Principles
+  - Software Development
+  - Big Data Platform and Architecture

@@ -15,11 +15,8 @@ main:
   - title: "Educations"
     url: "#-educations"
 
-  - title: "Skills"
-    url: "#-skils"
-
-  - title: "Internships and Projects"
-    url: "#-internships-and-projects"
+  - title: "Internships Projects and Skills"
+    url: "#-internships-projects-and-skills"
 
   - title: "Honors and Awards"
     url: "#-honors-and-awards"

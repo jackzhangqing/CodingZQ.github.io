@@ -6,5 +6,5 @@
 - *2023.11*: 🎉 One paper is accepted by [《Geophysical Prospecting》(JCR=2)](https://onlinelibrary.wiley.com/journal/13652478)!
 - *2023.08*: 🎉 One paper is accepted by **《Geophysics》(Top)**!
 - *2023.07*: I join [the CIG(Computational Interpretation Group)](https://cig.ustc.edu.cn/people/list.htm) as a visiting student at USTC <img src='./images/logo.png' style='width: 6em;'> in Hefei!
-- *2021.10*: Led the Open Fund Project (100,000 RMB) of the Key Laboratory of Geophysics of China National Petroleum Corporation, October 2021 - October 2024.
+- *2021.10*: Led the Open Fund Project (100,000 RMB) of the Key Laboratory of Geophysics of China National Petroleum Corporation, 2021.10-2024.10.
 - *2019.05*: I have obtained Qualification of Computer and Software Professional - **Information Security Engineer certification**!

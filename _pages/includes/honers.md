@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2024* Outstanding Master's Graduate in Hunan Province
 - *2024* Excellent Graduate Student
 - *2023* Excellent Graduate Student

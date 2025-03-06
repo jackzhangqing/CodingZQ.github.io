@@ -12,7 +12,7 @@
 
 # 💻 Internships Projects and Skills
 - <span style="font-size: 20px"> Internships </span>
-  - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
+  - *2019.05 - 2020.02*, [Briup software](https://briup.cn/), Kunshan.
 
 - <span style="font-size: 20px"> Projects </span>
 

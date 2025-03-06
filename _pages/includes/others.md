@@ -1,5 +1,6 @@
 # 💬 Invited Talks and Academic Conferences
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+<!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)-->
+- *2023.12*, The 16th Graduate Innovation Forum of Hunan Province.
 
 # 📖 Educations
 - *2025.09 -*, Joint PhD. student, Central South University(Base) and University of Science and Technology of China.
